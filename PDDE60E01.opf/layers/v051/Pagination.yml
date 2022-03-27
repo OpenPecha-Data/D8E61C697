@@ -6158,7 +6158,7 @@ annotations:
     reference: ''
     span:
       start: 1191002
-      end: 1191030
+      end: 1191002
 local_ids:
   cdd4be9706284459848d66242c1a79c5: 200000
   2241e944b5434dbcb8e216b911ae2388: 200001
